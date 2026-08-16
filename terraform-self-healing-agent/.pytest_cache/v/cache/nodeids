@@ -1,0 +1,6 @@
+[
+  "demo/test_buggy_calculator.py::TestCalculator::test_add",
+  "demo/test_buggy_calculator.py::TestCalculator::test_divide",
+  "demo/test_buggy_calculator.py::TestCalculator::test_multiply",
+  "demo/test_buggy_calculator.py::TestCalculator::test_subtract"
+]
